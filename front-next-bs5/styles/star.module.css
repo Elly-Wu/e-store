@@ -1,0 +1,27 @@
+.on {
+  color: gold;
+}
+
+.off {
+  color: gray;
+}
+
+.goodStyle{
+  color:red;
+}
+
+.starBtn{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbIcon {
+  color: #ff6433;
+}
+
+.circularImage {
+  border-radius: 50%;
+  overflow: hidden;
+}

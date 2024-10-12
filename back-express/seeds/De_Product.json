@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name":"ASUS G614JVR 16吋2K電競筆電",
+    "category":"筆記型電腦",
+    "brand":"ASUS",
+    "info":"i9-14900HX/RTX4060/16G/1TB SSD/ROG Strix G16",
+    "price":63000,
+    "photo":"ASUS G614JVR 16吋2K電競筆電$63000.png",
+    "size":"16吋",
+    "tag": "hot"
+  },
+  {
+    "id": 2,
+    "name":"桌上型電腦",
+    "category":"桌上型電腦",
+    "brand":"HP",
+    "info":"I7/12700/8G/512GM.2/550W 電腦天堂 桌上型電腦繪圖主機 文書 電競 PC",
+    "price":15500,
+    "photo":"PC.png",
+    "size":"512G",
+    "tag": "sale"
+  },
+  {
+    "id": 3,
+    "name":"Apple iPhone 15 Pro 256GB",
+    "category":"手機",
+    "brand":"Apple",
+    "info":"Apple iPhone 15 Pro 256GB A17 PRO",
+    "price":39188,
+    "photo":"cellphone.png",
+    "size":"256GB",
+    "tag": "new"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "u_photo":"testimonial-1.jpg",
+    "user":"謝鈺婷",
+    "shop":"鄧冠霖",
+    "rating":3,
+    "comment":"避免插入或更新評分時出現不合規的。"
+  },
+  {
+    "id": 2,
+    "u_photo":"male-t.jpg",
+    "user":"王宗翰",
+    "shop":"鄧冠霖",
+    "rating":5,
+    "comment":"可以幫助你管理更多詳細的設計或特定需求。"
+  },
+  {
+    "id": 3,
+    "u_photo":"female-t.jpg",
+    "user":"劉詩涵",
+    "shop":"鄧冠霖",
+    "rating":5,
+    "comment":"儲存評論內容、星等評分、按讚等資訊。以下是一些關鍵欄位及其用途的範例。"
+  }
+]
