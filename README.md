@@ -31,10 +31,6 @@
 <h3>單品頁中的評論功能</h3>
 <ul>
   <li>動態路由檔案位置：pages/ de-product/ [pid].js</li>
-  <li>評論列表：
-    <li>檔案位置：components/ review/ index.js</li>
-  </li>
-  <li>新增評論：
-    <li>檔案位置：components/ review/ add-review.js</li>
-  </li>
+  <li>評論列表：檔案位置：components/ review/ index.js</li>
+  <li>新增評論：檔案位置：components/ review/ add-review.js</li>
 </ul>
